@@ -1,0 +1,5 @@
+dotenv
+torch
+google-genai
+langdetect
+sentence-transformers

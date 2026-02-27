@@ -1,0 +1,23 @@
+{
+    "1001": {
+        "purchased_products": [
+            101,
+            103,
+            106
+        ],
+        "preferences": "The customer prefers silk and cotton fabrics, and buys outfits mainly for festive occasions and parties."
+    },
+    "1002": {
+        "purchased_products": [
+            102,
+            105
+        ],
+        "preferences": "The customer usually buys casual and daily wear clothes in bright colors."
+    },
+    "1003": {
+        "purchased_products": [
+            104
+        ],
+        "preferences": "No specific preferences recorded, but only purchases expensive, high-end garments."
+    }
+}
